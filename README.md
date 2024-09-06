@@ -7,7 +7,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Eager to learn and grow while leveraging my interpersonal skills to support business objectives. I bring strong analytical and development skills to a software engineer role and am excited to contribute to a dynamic organization that offers career growth opportunities. I’m a quick learner and effective problem solver.
 
 * 🌍  I am from Nagpur
-* ✉️  We can connect on [ojas,kamal@gmail.com](mailto:ojas.kamal@gmail.com)
+* ✉️  We can connect on [ojas.kamal@gmail.com](mailto:ojas.kamal@gmail.com)
 * 🔥  A full time coder and part time memer 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojassharma23)](https://github.com/KartikVhonale/github-profile-trophy)
