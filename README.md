@@ -29,16 +29,9 @@ generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt
     <a href="https://www.instagram.com/og_sharma23" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/ojas-sharma-509562249" target="blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/ojas-sharma-509562249](https://www.linkedin.com/in/ojas-sharma-509562249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)" height="32" width="32" />
+    </a>
 </p>
 
-### Badges
 
-<b>My GitHub Stats</b><br/>
-(https://stats.quine.sh/ojassharma23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ojassharma23)<br/>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojassharma23&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ojassharma23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojassharma23&show_icons=true&locale=en&theme=transparent" alt="ojassharma23"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojassharma23&theme=transparent" alt="ojasharma23" /></p>
