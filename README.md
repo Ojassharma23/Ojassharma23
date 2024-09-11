@@ -34,7 +34,7 @@ generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt
 ### Badges
 
 <b>My GitHub Stats</b><br/>
-[![Ojassharma23's GitHub | Stats](https://stats.quine.sh/ojassharma23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ojassharma23)<br/>
+(https://stats.quine.sh/ojassharma23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ojassharma23)<br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojassharma23&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ojassharma23" /></p>
